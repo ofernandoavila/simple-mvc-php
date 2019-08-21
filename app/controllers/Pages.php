@@ -7,7 +7,7 @@ class Pages extends Controller
 
     public function index() {
         $data = [
-            'title' => 'TraversyMVC'
+            'title' => 'Simple MVC PHP'
         ];
 
         
